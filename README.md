@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on `SVMT`, an easy to user MCMC sampler for astrophysicists  
+- 🔭I'm a Physicist turned Software Developer
+- 🖥 I’m currently working on `SVMT`, an easy to user MCMC sampler for astrophysicists  
 - 🌱 I’m currently learning EF Core in C# and .NET 
 - 🌎 I’m looking to collaborate on literally anything that makes you and me a better developer
 - 📫 Drop an email: hi@rolandbraun.com  
