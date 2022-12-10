@@ -1,4 +1,5 @@
-### Hi there 🙋‍♂️, I am Roland
+<h1 align="center">Hi there 🙋‍♂️, I'm Roland</h1>
+<h3 align="center">A Physicist turned Software Developer</h3>
 
 <!--
 **RolandBraunDev/RolandBraunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭I'm a physicist turned software developer
-- 🖥 I’m currently working on `SVMT`, an easy to user MCMC sampler for astrophysicists  
+- 🖥 I’m currently working on `SVMT`, an easy-to-use MCMC sampler for astrophysicists  
 - 🌱 I’m currently learning LINQ and EF Core in C#.NET 
-- 🌎 I’m looking to collaborate on literally anything that makes you and me better developers
+- 🌎 I’m looking to collaborate on literally anything that makes you and me better developers  
 - 📫 Drop an email: hi@rolandbraun.com  
