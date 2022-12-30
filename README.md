@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://rolandbraun.com">
-    <img src="https://img.shields.io/badge/Website-EA4335?style=for-the-badge&logo=webpack&logoColor=white">
+    <img src="https://img.shields.io/badge/Website-512bd4?style=for-the-badge&logo=webpack&logoColor=white">
   </a>
   
   <a href="https://twitter.com/rolandbraundev">
