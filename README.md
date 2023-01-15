@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 🙋‍♂️, I'm Roland</h1>
-<h3 align="center">A Physicist turned Software Developer</h3>
+<h3 align="center">Physicist turned Software Developer</h3>
 
 <p align="center">
   <a href="https://github.com/RolandBraunDev">
