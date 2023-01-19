@@ -2,23 +2,23 @@
 <h3 align="center">Physicist turned Software Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/RolandBraunDev">
+  <a href="https://github.com/RolandBraunDev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&amp;logo=github&logoColor=white">
   </a>
   
-  <a href="https://www.nuget.org/profiles/rolandbraun">
+  <a href="https://www.nuget.org/profiles/rolandbraun" target="_blank">
     <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&amp;logo=nuget&logoColor=white">
   </a>
   
-  <a href="https://linkedin.com/in/roland-braun">
+  <a href="https://linkedin.com/in/roland-braun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://rolandbraun.com">
+  <a href="https://rolandbraun.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-512bd4?style=for-the-badge&logo=webpack&logoColor=white">
   </a>
   
-  <a href="https://twitter.com/rolandbraundev">
+  <a href="https://twitter.com/rolandbraundev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white">
   </a>
 </p>
