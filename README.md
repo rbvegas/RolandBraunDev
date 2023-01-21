@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🖥 I recently worked on `SVMT`, an easy-to-use MCMC sampler for astrophysicists  
-- 🌱 I’m currently learning EF Core and ASP.NET Core in C#.NET  
+- 🌱 I’m currently learning EF Core and ASP.NET Core MVC in C#.NET  
 - 🌎 I’m looking to collaborate on literally anything that makes you and me better developers  
 - 📫 Drop an email: hi@rolandbraun.com  
