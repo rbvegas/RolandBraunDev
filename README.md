@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🖥 I recently worked on `SVMT`, an easy-to-use MCMC sampler for astrophysicists  
-- 🌱 I’m currently learning EF Core and ASP.NET Core Web API in C#.NET and Angular  
+- 🌱 I’m currently developing in ASP.NET Core Web API and Angular  
 - 🌎 I’m looking to collaborate on literally anything that makes you and me better developers  
 - 📫 Drop an email: hi@roland.ms  
