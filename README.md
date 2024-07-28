@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 🙋‍♂️, I'm Roland</h1>
-<h3 align="center">Physicist turned Software Developer</h3>
+<h3 align="center">Physicist turned Software Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/RolandBraunDev" target="_blank">
+  <a href="https://github.com/rbdev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&amp;logo=github&logoColor=white">
   </a>
   
