@@ -2,7 +2,11 @@
 <h3 align="center">Physicist turned Software Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/rbdev" target="_blank">
+  <a href="https://linktr.ee/rolandbraun" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-1de9b6??style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/rbVegas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&amp;logo=github&logoColor=white">
   </a>
   
@@ -29,7 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🖥 I recently worked on `SVMT`, an easy-to-use MCMC sampler for astrophysicists  
-- 🌱 I’m currently developing in ASP.NET Core Web API and Angular  
-- 🌎 I’m looking to collaborate on literally anything that makes you and me better developers  
+- 🖥 Recently worked on `SVMT`, an easy-to-use MCMC sampler for astrophysicists  
+- 🌱 Currently developing in ASP.NET Core Web API and Angular  
+- 🌎 Looking to collaborate on literally anything that makes you and me better developers  
 - 📫 Drop an email: hi@roland.ms  
